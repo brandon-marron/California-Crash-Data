@@ -161,7 +161,7 @@ shiny::runApp()
 ### Alternatively 
 The application is published on **Posit Connect**. Please see the **Links** section to access the application. 
 
-[Links Section](https://github.com/brandon-marron/California-Crash-Data/edit/main/README.md#links)
+[Links Section](https://github.com/brandon-marron/California-Crash-Data/tree/main#links)
 
 
 # Limitations
