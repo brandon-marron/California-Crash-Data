@@ -30,6 +30,7 @@ With key fields such as:
 - Geographic coordinates
 
 **Year Range**: 2021 - 2023
+
 **Data source**: Statewide Integrated Traffic Records System (SWITRS)
 
 # Tools Used
@@ -126,16 +127,17 @@ These findings are descriptive and reflect crash counts in the dataset. County c
 ```text
 california-crash-analysis/
 │
-├── app.R
+├── data/
+│   └── crashes_2021_2023.rar
+│
+├── images/
+│    ├── crash-location-map.png
+│    ├── county-choropleth.png
+│    └── exploratory-analysis.png
+│
 ├── README.md
 │
-├── data/
-│   └── README.md
-│
-└── images/
-    ├── crash-location-map.png
-    ├── county-choropleth.png
-    └── exploratory-analysis.png
+└── app.R
 ```
 
 # Running the Application
@@ -150,7 +152,7 @@ library(sf)
 library(maps)
 ```
 
-After downloading the dataset, ensure you save it as: 
+After downloading the `.rar`, extract the file and ensure you save/name it as: 
 ```text
 crashes_2021_2023.csv
 ```
@@ -158,6 +160,7 @@ in the project directory and run:
 ```R
 shiny::runApp()
 ```
+
 ### Alternatively 
 The application is published on **Posit Connect**. Please see the **Links** section to access the application. 
 
