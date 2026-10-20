@@ -4,7 +4,7 @@ An interactive R Shiny application for exploring and analyzing traffic collision
 The application lets users examine nearly **472,000 crash records** by year, city, county, violation category, collision severity, collision type, day of the week, and time of day through interactive maps and visualizations. 
 
 # Project Overview
-Traffic collision data contains a large amount of geographic, temporal, and categorical information that can be difficult to interpret from raw data alone.
+Traffic collision data contains a large amount of geographic, time-related, and categorical information that can be difficult to interpret from raw data alone.
 
 This project aims to create an interactive application that makes California crash data easier to explore and understand. We wish to explore and answer questions such as: 
 
