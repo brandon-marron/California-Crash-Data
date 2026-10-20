@@ -68,14 +68,8 @@ Users are welcomed with **Map 1**, where the user has full control over the foll
 - Whether crash markers should be colored by collision severity or collision type
 
 Individual collision records display their geographic coordinates, allowing users to explore where specific crash types occurred. 
-```text
-Note: 
-Map 1 has the following default settings to be displayed:
-Year: 2021
-Cities: Berkeley
-Violations: DUI
-Color: Collision Severity 
-```
+
+![Interactive Crash Location Map](https://github.com/brandon-marron/California-Crash-Data/blob/main/images/crash-location-map.png)
 
 ## 2. County-Level Choropleth
 Users can select Tab #2 called **Map 2**, which summarizes crashes across California counties. The user has the option to filter by the following: 
@@ -86,13 +80,7 @@ Users can select Tab #2 called **Map 2**, which summarizes crashes across Califo
 
 County boundaries are joined with the filtered crash totals and shaded by the number of matching collision records.
 
-```text
-Note:
-Map 2 has the following default settings to be displayed:
-Year: 2021
-Violations: DUI
-Collision Severity: possible injury, minor injury, severe injury, and fatal injury
-```
+![County-Level Choropleth](https://github.com/brandon-marron/California-Crash-Data/blob/main/images/county-choropleth.png)
 
 ## 3. Exploratory Analysis
 The application also provides an additional tab called **More**. In this tab, we provide additional views for the selected year, violation category, and severity levels: 
@@ -103,13 +91,7 @@ The application also provides an additional tab called **More**. In this tab, we
 
 Together, these views let you explore geographic and time-related patterns beyond crash locations. 
 
-```text
-Note:
-More has the following default settings to be displayed:
-Year: 2021
-Violations: DUI
-Collision Severity: possible injury, minor injury, severe injury, and fatal injury
-```
+![Exploratory Analysis](https://github.com/brandon-marron/California-Crash-Data/blob/main/images/exploratory-analysis.png)
 
 # Key Findings
 The analysis from the 2021-2023 datasets showed the following: 
