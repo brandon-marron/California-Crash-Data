@@ -33,6 +33,8 @@ With key fields such as:
 
 **Data source**: Statewide Integrated Traffic Records System (SWITRS)
 
+**Dataset Download Link**: [Dataset](https://github.com/brandon-marron/California-Crash-Data/blob/main/data/crashes_2021_2023.rar)
+
 # Tools Used
 We used the following tools for this project:
 - **RStudio** (R code)
@@ -173,5 +175,7 @@ This project analyzes raw collision counts, not collision rates. As a result, co
 # Links
 
 **Application Link**: [California Traffic Crash Analysis (2021-2023)](https://brandonmarron-crashes-app.share.connect.posit.cloud/)
+
+**Dataset Download Link**: [Dataset](https://github.com/brandon-marron/California-Crash-Data/blob/main/data/crashes_2021_2023.rar)
 
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brandonmarron)
