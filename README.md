@@ -1,4 +1,6 @@
 # California Traffic Crash Analysis (2021-2023)
+**R Shiny**
+
 An interactive R Shiny application for exploring and analyzing traffic collision patterns across California from 2021 through 2023.
 
 The application lets users examine nearly **472,000 crash records** by year, city, county, violation category, collision severity, collision type, day of the week, and time of day through interactive maps and visualizations. 
@@ -159,5 +161,7 @@ This project analyzes raw collision counts, not collision rates. As a result, co
 **Application Link**: [California Traffic Crash Analysis (2021-2023)](https://brandonmarron-crashes-app.share.connect.posit.cloud/)
 
 **Dataset Download Link**: [Dataset](https://github.com/brandon-marron/California-Crash-Data/blob/main/data/crashes_2021_2023.rar)
+
+**GitHub Repository**: [Repository](https://github.com/brandon-marron/California-Crash-Data)
 
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brandonmarron)
