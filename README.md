@@ -152,6 +152,9 @@ The application is published on **Posit Connect**. Please see the **Links** sect
 
 [Links Section](https://github.com/brandon-marron/California-Crash-Data/tree/main#links)
 
+**OR** 
+
+**Application Link**: [California Traffic Crash Analysis (2021-2023)](https://brandonmarron-crashes-app.share.connect.posit.cloud/)
 
 # Limitations
 This project analyzes raw collision counts, not collision rates. As a result, counties and cities with larger populations or higher traffic volumes would record more collisions. Additional analysis that incorporates population, roadway mileage, or vehicle miles traveled would be needed to compare relative crash risk across locations. 
